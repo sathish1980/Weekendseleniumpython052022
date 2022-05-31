@@ -5,3 +5,7 @@ class gitconcept():
 
     def inmyclass(self):
         print("inmyclass")
+      
+    def gitcon2mergeconflict(self):
+        print("git concept") 
+     
